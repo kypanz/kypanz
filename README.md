@@ -7,7 +7,7 @@
 </p>
 
 # About me
-i am a full stack developer, self-taught person, i love to participate in hackthons to prove my skills, build all type of things, i am waiting for funding for my startup
+i am a full stack developer, self-taught person, i love to participate in hackthons to prove my skills, build all type of things, i am finding for funding for my startup
 
 # Some experiences
 - wallet multisig
