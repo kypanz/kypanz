@@ -1,11 +1,15 @@
 # Hello i am Kypanz (OuO)
 
+<div align="center" style="display:flex;justify-content:center;">
+<img src="https://media.tenor.com/JAZzfZupTTcAAAAS/gil-cat.gif" />
+</div>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,js,html,css,typescript,nodejs,solidity,expressjs,react,nextjs,cpp,java,python,wordpress" />
   </a>
 </p>
-
+  
 # About me
 i am a full stack developer, self-taught person, i love to participate in hackthons to prove my skills, build all type of things, i am finding for funding for my startup
 
@@ -26,6 +30,8 @@ i am a full stack developer, self-taught person, i love to participate in hackth
 # What i gonna do this year :
 - learn english to get a certificate
 - finish my roadmap proyect
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kypanz)](https://github.com/kypanz/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kypanz&hide_progress=true)](https://github.com/kypanz/github-readme-stats)
 
