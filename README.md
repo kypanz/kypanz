@@ -29,7 +29,7 @@ i am a full stack developer, self-taught person, i love to participate in hackth
 
 # What i gonna do this year :
 - learn english to get a certificate
-- finish my roadmap proyect
+- finish my roadmap project
 
 
 
