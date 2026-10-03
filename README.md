@@ -1,7 +1,7 @@
 # Hello i am Kypanz (OuO)
 
 <div align="center" style="display:flex;justify-content:center;">
-<img src="https://media.tenor.com/JAZzfZupTTcAAAAS/gil-cat.gif" />
+<video src="./lanux.mp4" controls width="100%" autoplay muted loop></video>
 </div>
 
 <p align="center">
