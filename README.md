@@ -1,7 +1,7 @@
 # Hello i am Kypanz (OuO)
 
 <div align="center" style="display:flex;justify-content:center;">
-<video src="./lanux.mp4" controls width="100%" autoplay muted loop></video>
+<img src="https://media.tenor.com/JAZzfZupTTcAAAAS/gil-cat.gif" />
 </div>
 
 <p align="center">
@@ -33,5 +33,9 @@ i am a full stack developer, self-taught person, i love to participate in hackth
 
 
 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kypanz)](https://github.com/kypanz/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kypanz&hide_progress=true)](https://github.com/kypanz/github-readme-stats)
 
+<div align="center" style="display:flex;justify-content:center;">
+<video src="./lanux.mp4" controls width="100%" autoplay muted loop></video>
+</div>
